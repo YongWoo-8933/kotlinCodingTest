@@ -62,7 +62,6 @@ class BinarySearchTree(var root: Node? = null) {
 
 fun main() = with(System.`in`.bufferedReader())  {
     val tree = BinarySearchTree()
-    val lst = ArrayList<Int>()
 
     while(true) {
         try {
