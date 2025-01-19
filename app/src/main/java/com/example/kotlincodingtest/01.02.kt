@@ -12,7 +12,7 @@ package com.example.kotlincodingtest
 
 data class Node(val key: Int, var left: Node? = null, var right: Node? = null)
 
-class BinarySearchTree(var root: Node? = null) {
+class BinarySearchTree(private var root: Node? = null) {
 
     fun add(key: Int) {
         if (this.root == null) {
