@@ -51,6 +51,7 @@ fun main() {
                     colCheck[col][x] = true
                     blockCheck[block][x] = true
                     backTracking(idx+1)
+                    board[row][col] = 0
                     rowCheck[row][x] = false
                     colCheck[col][x] = false
                     blockCheck[block][x] = false
