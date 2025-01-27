@@ -5,6 +5,7 @@ package com.example.kotlincodingtest
 
 1. 신발끈공식(외적을 활용한 도형넓이 구하기) 그냥 적용
 */
+
 import kotlin.math.*
 
 fun main() = with(System.`in`.bufferedReader()) {

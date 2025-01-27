@@ -8,6 +8,7 @@ package com.example.kotlincodingtest
 3. 3번째 이상의 순서에서는 각각 dp table을 갱신하고, 마지막 N번째 경우만 따로 계산
 4. 각 dp table에서 최소비용을 찾아 출력
  */
+
 import kotlin.math.*
 
 fun main() = with(System.`in`.bufferedReader()) {

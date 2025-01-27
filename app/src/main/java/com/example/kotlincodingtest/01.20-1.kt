@@ -7,6 +7,7 @@ package com.example.kotlincodingtest
 2. 각 포인터가 가리키는 용액의 혼합 특성값 산출
 3. 혼합값이 음수면 lp를 증가, 양수면 rp를 감소시키며 최소 특성값 조합 찾기
 */
+
 import kotlin.math.*
 
 fun main() = with(System.`in`.bufferedReader()) {

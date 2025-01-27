@@ -7,6 +7,7 @@ package com.example.kotlincodingtest
 2. dp테이블을 만들고 각 구간별 LCS길이(int값) 갱신
 3. 테이블을 모두 채우고 나면, 거꾸로 읽어가면서 LCS문자열 산출
 */
+
 import kotlin.math.*
 
 fun main() = with(System.`in`.bufferedReader()) {
