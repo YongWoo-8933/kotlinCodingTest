@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0116
 
 /**
 백준 13172 Σ

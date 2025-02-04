@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0118
 
 /**
 백준 2166 다각형의 면적 (골드5)

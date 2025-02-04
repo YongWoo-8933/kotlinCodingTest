@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0120_1
 
 /**
 백준 2467 용액 (골드5)

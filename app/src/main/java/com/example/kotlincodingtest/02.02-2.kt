@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0202_2
 
 /**
 백준 1005 ACM Craft (골드3)

@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0125_2
 
 /**
 백준 17404 RGB거리 2 (골드4)

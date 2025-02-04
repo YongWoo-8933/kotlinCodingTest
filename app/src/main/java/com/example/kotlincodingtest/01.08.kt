@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0103
 
 /**
 백준 11779 최소비용 구하기 2 (골드3)

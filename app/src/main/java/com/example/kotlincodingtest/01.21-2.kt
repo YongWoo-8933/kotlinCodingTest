@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0120_2
 
 /**
 백준 1197 최소 스패닝 트리 (골드4)

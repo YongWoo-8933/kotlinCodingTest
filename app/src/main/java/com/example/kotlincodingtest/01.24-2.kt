@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0124_2
 
 /**
 백준 2239 스도쿠 (골드4)

@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0103
 
 /**
 백준 12851 숨바꼭질 2 (골드4)

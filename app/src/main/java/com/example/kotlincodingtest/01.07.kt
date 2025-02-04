@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0107
 
 /**
 백준 16236 아기 상어 (골드3)

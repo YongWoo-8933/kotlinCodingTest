@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0122_1
 
 /**
 백준 1647 도시분할계획 (골드4)

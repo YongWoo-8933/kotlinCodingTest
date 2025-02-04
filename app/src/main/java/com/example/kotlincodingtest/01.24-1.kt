@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0124_1
 
 /**
 백준 10942 팰린드롬? (골드4)

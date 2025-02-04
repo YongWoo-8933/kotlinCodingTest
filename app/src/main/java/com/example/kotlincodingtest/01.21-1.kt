@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0121_1
 
 /**
 백준 1806 부분합 (골드4)

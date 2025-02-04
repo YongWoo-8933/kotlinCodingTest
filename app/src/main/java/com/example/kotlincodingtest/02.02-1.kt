@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0202_1
 
 /**
 백준 2143 두 배열의 합 (골드3)

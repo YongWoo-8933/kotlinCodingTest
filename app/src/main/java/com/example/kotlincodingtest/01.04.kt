@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0104
 
 /**
 백준 14938 서강그라운드 (골드4)

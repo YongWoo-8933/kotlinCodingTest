@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0122_2
 
 /**
 백준 1717 집합의 표현 (골드5)

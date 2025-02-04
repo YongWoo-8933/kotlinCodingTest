@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0201_2
 
 /**
 백준 20040 사이클 게임 (골드4)

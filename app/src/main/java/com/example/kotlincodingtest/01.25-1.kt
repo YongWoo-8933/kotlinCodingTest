@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0125_1
 
 /**
 백준 1918 후위 표기식 (골드2)

@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0106
 
 /**
 백준 17144 미세먼지 안녕! (골드4)

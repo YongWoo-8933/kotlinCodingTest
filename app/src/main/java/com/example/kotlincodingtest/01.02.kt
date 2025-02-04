@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0102
 
 /**
 백준 5639 이진 검색 트리 (골드4)

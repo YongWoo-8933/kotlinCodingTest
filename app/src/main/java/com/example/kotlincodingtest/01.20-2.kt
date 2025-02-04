@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0120_2
 
 /**
 백준 9252 LCS 2 (골드4)

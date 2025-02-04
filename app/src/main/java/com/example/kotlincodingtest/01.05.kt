@@ -1,4 +1,4 @@
-package com.example.kotlincodingtest
+package com.example.kotlincodingtest.file0105
 
 /**
 백준 9935 문자열 폭발 (골드4)
