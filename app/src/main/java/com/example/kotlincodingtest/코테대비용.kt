@@ -47,4 +47,12 @@ fun main() {
     val hq2 = PriorityQueue<Pair<Int, Int>> { a, b -> a.second.compareTo(b.second) }  // 두번째 요소로 비교
     val hq3 = PriorityQueue(compareBy<Pair<Int, Int>>({ it.second }, { it.second }))  // 두번째 요소로 비교한 후, 같을때 첫번째 요소로 비교
     val hq4 = PriorityQueue(compareBy<Pair<Int, Int>>{ it.second }.thenByDescending{ it.first })  // 두번째 요소로 비교한 후, 같을때 첫번째 요소 내림차순 비교
+
+    // 비트마스킹
+    var bits = 37
+    bits = bits or (1 shl 2) // 세번째 비트 켜기
+    bits = bits and (1 shl 2).inv() // 세번째 비트 끄기
+    val isSame = bits == (bits or (1 shl 2)) // 세번째 비트 켜져 있는지 확인
+    bits = bits xor (1 shl 2) // 세번째 비트 토글
+
 }
