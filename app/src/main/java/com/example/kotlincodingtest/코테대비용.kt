@@ -88,6 +88,8 @@ fun main() {
     'F'.isUpperCase()
     'F'.isLowerCase()
     "Fdsafdsa".indexOf('a')
+    arrayOf("a", "b", "c", "d").joinToString("/")  // a/b/c/d 출력
+
     // 프로그램 종료
     exitProcess(0)
 }
