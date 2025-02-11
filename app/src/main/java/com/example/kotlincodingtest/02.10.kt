@@ -1,13 +1,12 @@
 package com.example.kotlincodingtest.file0210
 
-import kotlin.system.exitProcess
-import kotlin.math.*
-
 /**
  * 백준 17140 이차원 배열과 연산 (골드4)
  *
  * 1. 하드코딩으로 구현하면 됨. (정렬 연산 활용)
 */
+import kotlin.system.exitProcess
+import kotlin.math.*
 
 fun main() = with(System.`in`.bufferedReader()) {
     val (r, c, k) = readLine().split(" ").map{ it.toInt() }
