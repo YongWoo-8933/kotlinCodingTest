@@ -15,5 +15,5 @@ fun main() {
         dp = min(height, dp+1)
         answer = max(answer, dp)
     }
-    print(answer)ㄴ
+    print(answer)
 }
