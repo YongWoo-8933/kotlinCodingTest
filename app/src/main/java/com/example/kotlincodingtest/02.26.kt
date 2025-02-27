@@ -3,7 +3,7 @@ package com.example.kotlincodingtest.file0226
 /**
  * 백준 9358 순열 접기 게임 (실버5)
  *
- * 1. 구현
+ * 1. 단순 구현
 */
 import kotlin.math.ceil
 
